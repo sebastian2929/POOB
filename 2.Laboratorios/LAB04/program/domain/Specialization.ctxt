@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Specialization
+comment1.params=name\ discount
+comment1.target=Specialization(java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ specializacion\r\n\ @param\ name\ \r\n\ @param\ discount\ \r\n
+comment2.params=c
+comment2.target=void\ addCourse(Course)
+comment2.text=\r\n\ Add\ a\ new\ course\r\n\ @param\ c\r\n
+comment3.params=
+comment3.target=java.lang.String\ data()
+comment4.params=
+comment4.target=int\ price()
+comment5.params=
+comment5.target=int\ defaultPrice()
+comment5.text=\r\n\ Calculates\ the\ default\ price\ of\ a\ Specialization.\r\n\ For\ courses\ where\ the\ price\ cannot\ be\ known,\ the\ DEFAULT_PRICE\ is\ assumed.\ \r\n\ @return\ \r\n\ @throws\ IEMOISException\ SPECIALIZATION_EMPTY,\ if\ it\ doesn't\ have\ courses\r\n
+comment6.params=name
+comment6.target=int\ price(java.lang.String)
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Marino
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Marino\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=instruccion
+comment1.target=void\ autoDestruirse(boolean)
+comment1.text=\r\n\ Las\ maquinas\ estan\ preparadas\ para\ autodestruirse\r\n\ Los\ barcos\ y\ aviones\ se\ auto\ destruyen\ si\ reciben\ la\ instruccion\r\n\ Las\ capsulas\ se\ auto\ destruyen\ si\ su\ nodriza\ es\ destruida\r\n\ @Param\ instruccion,\ dice\ si\ se\ destruyen\ o\ no\r\n
+numComments=2

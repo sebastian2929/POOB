@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fixed
+comment0.text=\r\n\ Es\ un\ tipo\ de\ ruta\ la\ cual\ no\ se\ puede\ borrar\ por\ la\ tanto\ sus\ intersecciones\ tampoco.\r\n\ \r\n\ @author\ Andres\ Felipe\ Arias\ Ajiaco\ y\ Sebastian\ David\ Blanco\ Rodriguez.\r\n\ @version\ 1/11/22\r\n
+comment1.params=interseccionA\ interseccionB
+comment1.target=Fixed(Interseccion,\ Interseccion)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fixed\r\n
+numComments=2

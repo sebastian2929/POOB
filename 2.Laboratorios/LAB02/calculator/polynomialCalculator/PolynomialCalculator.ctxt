@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PolynomialCalculator
+comment0.text=\ PolynomialCalculator.java\n\ \n\ @author\ ESCUELA\ 2022-02\n
+comment1.params=
+comment1.target=PolynomialCalculator()
+comment2.params=nombre
+comment2.target=void\ create(java.lang.String)
+comment3.params=set\ fractions
+comment3.target=void\ assign(java.lang.String,\ int[][])
+comment4.params=a\ b\ op\ c
+comment4.target=void\ assign(java.lang.String,\ java.lang.String,\ char,\ java.lang.String)
+comment5.params=a\ op\ b
+comment5.target=void\ assign(java.lang.String,\ char,\ java.lang.String)
+comment6.params=a\ x
+comment6.target=java.lang.String\ evaluate(java.lang.String,\ int[])
+comment7.params=set
+comment7.target=java.lang.String\ toString(java.lang.String)
+comment8.params=
+comment8.target=boolean\ ok()
+numComments=9

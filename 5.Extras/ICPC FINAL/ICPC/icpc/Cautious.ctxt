@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cautious
+comment0.text=\r\n\ Es\ un\ tipo\ de\ sennal\ la\ cual\ su\ limite\ de\ velocidad\ sera\ el\ limite\ de\ velocidad\ minimo\ de\ las\ rutas\ del\ sistema\ ICPC.\r\n\ \r\n\ @author\ Andres\ Felipe\ Arias\ Ajiaco\ y\ Sebastian\ David\ Blanco\ Rodriguez.\r\n\ @version\ 1/11/22\r\n
+comment1.params=interseccionA\ interseccionB\ SpeedLimit
+comment1.target=Cautious(Interseccion,\ Interseccion,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cautious\r\n
+numComments=2

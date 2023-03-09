@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ICPCContest
+comment0.text=\r\n\ Soluciona\ o\ simula\ un\ caso\ de\ red\ ICPC,\ dando\ el\ costo\ y\ las\ sennales\ correspondientes\ con\ su\ velocidad.\r\n\ \r\n\ @author\ Andres\ Felipe\ Arias\ Ajiaco\ y\ Sebastian\ David\ Blanco\ Rodriguez.\r\n\ @version\ 1/11/22\r\n
+comment1.params=cost\ routeSpeedLimits
+comment1.target=int\ solve(int,\ int[][])
+comment1.text=\r\n\ Metodo\ que\ da\ solucion\ al\ problema\ de\ la\ red\ de\ ICPC.\r\n\ @param\ int\ cost,\ Costo\ de\ poner\ una\ sennal.\r\n\ @param\ int[][]\ routesSpeedLimist,\ Matriz\ con\ la\ red\ ICPC.\r\n
+comment2.params=cost\ routeSpeedLimits
+comment2.target=void\ simulate(int,\ int[][])
+comment2.text=\r\n\ Metodo\ que\ simula\ la\ construccion\ de\ una\ red\ ICPC\r\n\ @param\ int\ cost,\ Costo\ de\ poner\ una\ sennal.\r\n\ @param\ int[][]\ routesSpeedLimist,\ Matriz\ con\ la\ red\ ICPC.\r\n
+comment3.params=
+comment3.target=boolean\ ok()
+comment3.text=\r\n\ Metodo\ que\ verifica\ la\ operacion\ indicada\ se\ pudo\ ejecutar\ en\ el\ simulador,\ este\ devolvera\ un\ mensaje\ de\ referencia.\r\n\ @return\ boolean,\ true\ si\ la\ operacion\ se\ realiz\u00F3\ satisfactoriamente,\ de\ lo\ contrario\ false.\r\n
+comment4.params=cost\ valorMaximo\ matriz
+comment4.target=void\ matrizIcpcCm(int,\ int,\ int[][])
+comment4.text=\r\n\ Metodo\ que\ genera\ la\ matriz\ de\ la\ red\ icpc\ cuando\ el\ costo\ es\ muy\ elevado.\r\n\ int\ valorMaximo,\ limite\ de\ velocidad\ maximo.\r\n
+comment5.params=routeSpeedLimits
+comment5.target=int\ maxSpeedLimit(int[][])
+comment5.text=\r\n\ Metodo\ que\ da\ el\ maximo\ limite\ de\ velociad\r\n\ @param\ int[][]\ SpeedLimits,\ matriz\ redIcpc\r\n\ @return\ int\ maxSpeed,\ maximo\ limite\ de\ velocidad.\r\n
+numComments=6

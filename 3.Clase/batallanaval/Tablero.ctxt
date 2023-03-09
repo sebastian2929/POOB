@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tablero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=longitud\ latitud\ nombre
+comment1.target=boolean\ esBuenAtaque(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Verifca\ si\ una\ ubicacion\ de\ ataque\ es\ adecuada\ (Verifica\ que\ no\ sean\ propias)\r\n\ Destruye\ elementos\ enemigos\ sin\ ocacionar\ bajas\ propias\r\n\ @Param\ entero\ longitud,\ la\ longitud\ de\ la\ maquina\ \r\n\ @Param\ entero\ latitud,\ la\ latitud\ de\ la\ maquina\ \r\n\ @Return\ un\ boolean\ si\ fue\ un\ buen\ o\ mal\ ataque\ \r\n
+comment2.params=
+comment2.target=int\ alNorte()
+comment2.text=\r\n\ Consulta\ el\ numero\ de\ flotas\ que\ lograron\ un\ moviemiento\ completo\r\n\ @Return\ la\ cantidad\ de\ flotas\ que\ lograron\ un\ movimiento\ completo\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ infiltrados()
+comment3.text=\r\n\ Consulta\ las\ flotas\ que\ tienen\ pilotos\ inflitrados\r\n\ @Return\ un\ arreglo\ de\ flotas\ con\ pilotos\ infiltrados\r\n
+comment4.params=
+comment4.target=int\ potencia()
+comment4.text=\r\n\ Consulta\ la\ potencia\ que\ tiene\ el\ tablero\ \r\n\ La\ potencia\ es\ la\ suma\ de\ la\ potencia\ de\ las\ flotas\r\n\ @Return\ la\ potencia\ del\ tablero\r\n
+numComments=5

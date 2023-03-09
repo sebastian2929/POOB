@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ubicacion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ubicacion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ alNorte()
+comment1.text=\r\n\ Mueve\ la\ flota\ una\ posicion\ al\ norte\r\n\ En\ el\ momento\ que\ una\ maquina\ no\ se\ puede\ mover\ se\ para\ el\ moviento\ de\ toda\ la\ flota\r\n
+comment2.params=deLon\ deLat
+comment2.target=void\ avance(int,\ int)
+comment2.text=\r\n\ Mueve\ todas\ las\ maquinas\ la\ distancia\ definida\r\n\ El\ mundo\ tablero\ es\ circular\r\n\ @Param\ entero\ deLon,\ la\ longitud\ de\ la\ maquina\ \r\n\ @Param\ entero\ deLat,\ la\ latitud\ de\ la\ maquina\ \r\n
+comment3.params=longitud\ latitud
+comment3.target=boolean\ seranDestruidas(int,\ int)
+comment3.text=\r\n\ Consulta\ las\ maquinas\ que\ pueden\ afectarse\ por\ una\ explosion\ en\ la\ posicion\ dada\r\n\ En\ una\ coordenada\ pueden\ estar\ muchas\ maquinas.\r\n\ Los\ aviones\ en\ Aire\ no\ se\ destruyen\r\n\ @Param\ entero\ longitud,\ la\ longitud\ de\ la\ maquina\ \r\n\ @Param\ entero\ latitud,\ la\ latitud\ de\ la\ maquina\ \r\n\ @Return\ boolean\ sobre\ si\ seran\ destruidas\r\n
+comment4.params=longitud\ latitud
+comment4.target=boolean\ esBuenAtaque(int,\ int)
+comment4.text=\r\n\ Comprueba\ si\ una\ maquina\ esta\ en\ la\ posicion\ dada\r\n\ @Param\ entero\ longitud,\ la\ longitud\ de\ la\ maquina\ \r\n\ @Param\ entero\ latitud,\ la\ latitud\ de\ la\ maquina\ \r\n\ @Return\ un\ boolean\ comprobando\ si\ esta\ o\ no\ en\ la\ posicion\r\n
+comment5.params=lon\ lat
+comment5.target=void\ ataquen(int,\ int)
+comment5.text=\r\n\ Mueve\ todas\ las\ maquinas\ que\ nos\ son\ debiles\ paso\ a\ paso\ hacia\ la\ posicion\ a\ atacar\ indicada\ por\ (Lon,\ Lat)\r\n\ @Param\ entero\ Lon,\ la\ longitud\ de\ la\ maquina\ \r\n\ @Param\ entero\ Lat,\ la\ latitud\ de\ la\ maquina\ \r\n
+comment6.params=
+comment6.target=int\ getLatitud()
+comment6.text=\r\n\ Obtiene\ la\ latitud\ de\ la\ maquina\r\n\ @Return\ la\ latitud\r\n
+comment7.params=
+comment7.target=int\ getLongitud()
+comment7.text=\r\n\ Obtien\ la\ longitud\ de\ la\ maquina\r\n\ @Return\ la\ longitud\r\n
+numComments=8

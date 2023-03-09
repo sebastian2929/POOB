@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hermit
+comment0.text=\r\n\ Es\ un\ tipo\ de\ interseccion\ la\ cual\ solo\ puede\ tener\ una\ ruta.\ \r\n\ \r\n\ @author\ Andres\ Felipe\ Arias\ Ajiaco\ y\ Sebastian\ David\ Blanco\ Rodriguez.\r\n\ @version\ 1/11/22\r\n
+comment1.params=color\ x\ y
+comment1.target=Hermit(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hermit\r\n
+numComments=2

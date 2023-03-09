@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Needy
+comment0.text=\r\n\ Es\ un\ tipo\ de\ interseccion\ la\ cual\ desaparece\ cuando\ se\ queda\ sin\ rutas.\r\n\ \r\n\ @author\ Andres\ Felipe\ Arias\ Ajiaco\ y\ Sebastian\ David\ Blanco\ Rodriguez.\r\n\ @version\ 1/11/22\r\n
+comment1.params=color\ x\ y
+comment1.target=Needy(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Need\r\n
+numComments=2
